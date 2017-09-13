@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479260997 source:c:\users\alfredo tito\documents\estrutura de dados\nrainhs\main.c
+	"stack.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1479307140 c:\users\alfredo tito\documents\estrutura de dados\nrainhs\stack.h
+
+1479399332 source:c:\users\alfredo tito\documents\estrutura de dados\nrainhs\stack.c
+	"stack.h"
+	<stdlib.h>
+	<string.h>
+

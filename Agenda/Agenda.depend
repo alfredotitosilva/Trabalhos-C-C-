@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1470944432 source:c:\users\alfredo tito\documents\c\agenda\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	"options.h"
+
+1470944298 c:\users\alfredo tito\documents\c\agenda\options.h
+
+1470944525 source:c:\users\alfredo tito\documents\c\agenda\options.cpp
+	"options.h"
+	<string.h>
+	<iostream>
+	<fstream>
+
